@@ -1183,6 +1183,8 @@ color: #E5DFE1;
   background: #000000;
   color: #E5DFE1;
   padding: 30px 0;
+  position: absolute;
+  width: 100%;
 }
 .footer-cb{
   background: linear-gradient(
